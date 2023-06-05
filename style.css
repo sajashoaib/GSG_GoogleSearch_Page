@@ -169,6 +169,17 @@ link:hover {
 .language p a:hover {
     text-decoration: underline;
 }
+/* Footer */
+footer {
+    background-color: #020202;
+    height: 100px;
+}
+
+.footer-content {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
 
 
 
