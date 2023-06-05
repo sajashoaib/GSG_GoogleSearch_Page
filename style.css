@@ -129,6 +129,31 @@ link:hover {
 .search-bar input:focus {
     outline: none;
 }
+.search-btns {
+    margin-top: 20px;
+}
+
+.search-btns button {
+    height: 40px;
+    font-size: 14px;
+    border: none;
+    border-radius: 5px;
+    margin-left: 10px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 255, 255,0.1);
+}
+
+.search-btns button:hover {
+    border: 1px solid lightgray;
+}
+
+.google-search-btn {
+    width: 120px;
+}
+
+.lucky-search-btn {
+    width: 140px;
+}
 
 
 
