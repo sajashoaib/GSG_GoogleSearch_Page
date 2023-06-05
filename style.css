@@ -203,6 +203,20 @@ footer {
 .lower-footer ul li a:hover {
     text-decoration: underline;
 }
+.lower-left-footer {
+    display: flex;
+}
+
+.lower-left-footer li {
+    margin-right: 15px;
+}
+.lower-right-footer {
+    display: flex;
+}
+
+.lower-right-footer li {
+    margin-left: 15px;
+}
 
 
 
