@@ -154,6 +154,22 @@ link:hover {
 .lucky-search-btn {
     width: 140px;
 }
+.language {
+    margin-top: 20px;
+    font-size: 14px;
+}
+.language p{
+    color: rgb(255, 255, 255);  
+}
+
+.language p a {
+    color: blue;
+}
+
+.language p a:hover {
+    text-decoration: underline;
+}
+
 
 
 
