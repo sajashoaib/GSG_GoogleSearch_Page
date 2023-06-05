@@ -61,3 +61,20 @@ link:hover {
 .circle-shadow:hover {
     background-color: rgb(255, 255, 255,0.2);
 }
+.menu-icon,
+.user-icon span {
+    font-size: 18px;
+}
+
+.user-icon span {
+    color: white;
+}
+
+.user-icon {
+    background-color: #009bef;
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 30px;
+}
