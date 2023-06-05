@@ -44,3 +44,20 @@ header {
 .navbar ul li a {
     color: rgb(255, 255, 255);
 }
+link:hover {
+    text-decoration: underline;
+    text-decoration-color: #fff;
+}
+
+.circle-shadow {
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.circle-shadow:hover {
+    background-color: rgb(255, 255, 255,0.2);
+}
