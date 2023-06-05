@@ -189,6 +189,20 @@ footer {
     color: gray;
     font-size: 14px;
 }
+.lower-footer {
+    height: 50%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.lower-footer ul li a {
+    font-size: 14px;
+    color: gray;
+}
+
+.lower-footer ul li a:hover {
+    text-decoration: underline;
+}
 
 
 
